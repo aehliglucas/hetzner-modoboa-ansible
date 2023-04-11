@@ -1,0 +1,1 @@
+Repository to store Ansible artifacts and other stuff to maintain my modoboa mail server.
